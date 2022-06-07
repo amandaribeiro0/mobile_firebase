@@ -11,7 +11,8 @@ Projeto Mobile utilizando expo e requisição com Firebase. Este projeto foi fei
 
 
 ## ✅ Demonstração
-
+<img src="https://github.com/amandaribeiro0/mobile_firebase/blob/main/images/listaJogos.JPG" />
+<img src="https://github.com/amandaribeiro0/mobile_firebase/blob/main/images/detalhesJogos.JPG" />
 ## ⚙ Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
